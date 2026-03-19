@@ -1,17 +1,20 @@
-# portfolio-template-python-ml
+# sat-2-arset-notebooks-lab
 
-Plantilla base para proyectos de portafolio en análisis de datos ambientales, machine learning, forecasting, GIS y energía.
+## TL;DR
+Repositorio satélite para documentar notebooks reproducibles basados en aplicaciones de observación de la Tierra y formación tipo NASA ARSET.
 
-## Estructura
+## Data
+Se trabajará con productos satelitales, variables derivadas, indicadores de sequía, monitoreo de incendios y observaciones ambientales.
 
-- `src/`: código fuente principal
-- `notebooks/`: exploración y prototipos
-- `data/`: datos y documentación de fuentes
-- `reports/`: resultados y reportes
-- `docs/`: documentación del proyecto
-- `tests/`: pruebas
-- `.github/workflows/`: automatizaciones
+## Cómo correr
+1. Clonar el repositorio  
+2. Instalar dependencias  
+3. Ejecutar notebooks por temática  
+4. Revisar salidas gráficas y resultados
 
-## Uso
+## Estado
+🚧 En progreso.  
+Actualmente en fase de organización para integrar ejercicios y aplicaciones con datos satelitales.
 
-Este repositorio será usado como plantilla para crear proyectos ancla y satélite de mi portafolio profesional.
+## Objetivo profesional
+Este proyecto busca evidenciar habilidades en teledetección, análisis ambiental reproducible y uso aplicado de datos de observación de la Tierra.
